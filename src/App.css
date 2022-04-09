@@ -1,5 +1,21 @@
+html{
+  box-sizing: border-box;
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: inherit;
+}
+
 .App {
   text-align: center;
+}
+
+hr{
+  margin: 2rem auto;
 }
 
 .App-logo {

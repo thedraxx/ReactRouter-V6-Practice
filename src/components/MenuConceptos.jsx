@@ -49,7 +49,8 @@ export const MenuConceptos = () => {
         </li>
         <li>
           <span>Rutas Privadas:</span>
-          <Link to="/react">React</Link>
+          <Link to="/Login">Login</Link>
+          <Link to="/Dashboard">Dashboard</Link>
         </li>
       </ol>
     </nav>
